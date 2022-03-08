@@ -8,3 +8,11 @@ All the projects from Udemy Course "React - The Complete Guide" with alot of com
 * The basics of React - Working with components, props, JSX
 * How to work with State and Events - UseState Hook, forms with buttons for event handling
 * How to render list and conditional content - Render list of data(arrays), understand the keys when rendering data, ternary operators for conditional rendering content
+
+### 2. Styling React Components
+
+* Dynamically style with CSS classes - the basic way
+* style with styled components and dynamically style with styled components and dynamic props
+* Style with css modules and dynamically style with css modules
+
+Personal favorite: CSS Modules
