@@ -16,3 +16,9 @@ All the projects from Udemy Course "React - The Complete Guide" with alot of com
 * Style with css modules and dynamically style with css modules
 
 Personal favorite: CSS Modules
+
+### 3. Complete Project with Basics
+
+* UseState react Hooks for updating the state
+* Components and props
+* Style with css modules
