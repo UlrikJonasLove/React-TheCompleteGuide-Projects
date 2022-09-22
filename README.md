@@ -16,3 +16,29 @@ All the projects from Udemy Course "React - The Complete Guide" with alot of com
 * Style with css modules and dynamically style with css modules
 
 Personal favorite: CSS Modules
+
+### 3. Basics of React - Practice Project
+
+* UseState react Hooks for updating the state
+* Components and props
+* Style with css modules
+* React Fragments
+* Portals & Refs
+
+### 4. Mock Auth Project
+
+* Side effects with useEffect
+* Replace useState with UseReducer to managing more complex state
+* Managing App- Wide or component-wide state/functions with useContext
+
+### 5. Food Order App - Practice Project 
+
+* Components, props, jsx
+* Modal with React Portal
+* Simple form
+* #### React hooks
+* UseState for Modal visibility & useEffect for, 
+* useContext for & useReducer for
+* 
+* Working with Fefs & forward Refs
+* array map function to display dummy data

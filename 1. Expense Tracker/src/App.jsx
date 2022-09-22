@@ -3,6 +3,7 @@ import { Expenses } from "./components/Expenses/Expenses";
 import { NewExpense } from "./components/NewExpense/NewExpense";
 import "./App.css";
 
+// the dummy data used for this expense tracker project
 const DUMMY_EXPENSES = [
   {
     id: "e1",
@@ -28,8 +29,13 @@ const DUMMY_EXPENSES = [
 export const App = () => {
   const[expenses, setExpenses] = useState(DUMMY_EXPENSES);
 
+  // this function is used to add a new expense to the list of expenses
+  // and it is called from the NewExpense component
   const addExpenseHandler = expense => {
+    // use the setExpenses function to get the previous state and add the new expense
     setExpenses((prevExpense) => {
+      // this returns the previous state of the expenses array
+      // and adds the new expense to the end of the array
       return [expense, ...prevExpense]
     })
   };

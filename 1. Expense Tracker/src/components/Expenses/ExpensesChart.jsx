@@ -22,6 +22,8 @@ export const ExpensesChart = props => {
         const expenseMonth = expense.date.getMonth(); // starting at 0 => january => 0
         ChartDataPoints[expenseMonth].value += expense.amount;
     }
-
+    // this component returns a Chart component
+    // the Chart component is responsible for rendering the chart
+    // it takes an array of data points
     return <Chart dataPoints={ChartDataPoints} />
 }

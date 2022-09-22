@@ -52,7 +52,7 @@ export const ExpenseForm = props => {
 
     const expenseData = {
       title: enteredTitle,
-      amount: +enteredAmont,
+      amount: +enteredAmont, // this converts the string to a number (+ sign is used to convert to a number)
       date: new Date(enteredDate),
     };
 
