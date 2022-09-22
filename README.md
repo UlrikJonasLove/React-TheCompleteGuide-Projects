@@ -17,16 +17,10 @@ All the projects from Udemy Course "React - The Complete Guide" with alot of com
 
 Personal favorite: CSS Modules
 
-<<<<<<< HEAD
 ### 3. Basics of React - Practice Project
-=======
-### 3. Complete Project with Basics
->>>>>>> 7339889fd20abea59d347a876fa1b049d56a3c70
-
 * UseState react Hooks for updating the state
 * Components and props
 * Style with css modules
-<<<<<<< HEAD
 * React Fragments
 * Portals & Refs
 
@@ -47,5 +41,3 @@ Personal favorite: CSS Modules
 * 
 * Working with Fefs & forward Refs
 * array map function to display dummy data
-=======
->>>>>>> 7339889fd20abea59d347a876fa1b049d56a3c70
