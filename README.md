@@ -35,9 +35,8 @@ Personal favorite: CSS Modules
 * Components, props, jsx
 * Modal with React Portal
 * Simple form
-* #### React hooks
-* UseState for Modal visibility & useEffect for, 
-* useContext for & useReducer for
-* 
-* Working with Fefs & forward Refs
+* Refs & forward Refs
 * array map function to display dummy data
+* #### React hooks
+* UseState for Modal visibility & useEffect for cart animation, 
+* useContext for Cart handling and app-wide state/functions & useReducer for complex state
