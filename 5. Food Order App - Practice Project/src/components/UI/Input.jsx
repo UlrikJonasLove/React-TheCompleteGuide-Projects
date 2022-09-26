@@ -1,6 +1,8 @@
+import React from 'react';
 import styles from './Input.module.css';
 
-export const Input = props => {
+//adding ref so we can get access to our input through refs
+export const Input = React.forwardRef((props, ref) => {
     return (
         <div className={styles.input}>
             {/*htmlFor (instead of for) is a reserved keyword in react, as className(instead of class) is */}
@@ -8,7 +10,7 @@ export const Input = props => {
 
             {/* this {...props.input} assures all the key-value pairs 
             in the input object which we recieve on props.input are added as props to input*/}
-            <input {...props.input} /> 
+            <input ref={ref} {...props.input} /> 
         </div>
     )
-}
+})
