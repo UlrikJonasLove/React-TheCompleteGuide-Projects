@@ -1,4 +1,4 @@
-# 4. Food Order App - Practice Project
+# Food Order App - Practice Project
 
 * Components, props, jsx
 * Modal with React Portal

@@ -1,4 +1,4 @@
-# Complete Project with Basics
+# Basics of React - Practice Project
 
 * UseState react Hooks for updating the state
 * Components and props

@@ -1,4 +1,4 @@
-# 4. Mock Auth Project
+# Mock Auth Project
 
 * Side effects with useEffect
 * Replace useState with UseReducer to managing more complex state

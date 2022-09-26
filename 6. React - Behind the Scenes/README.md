@@ -1,5 +1,5 @@
-# 4. React - Behind the Basics 
-# Optimization Techniques
+# React - Behind the Basics 
+## & Optimization Techniques
 
 Connected components will re-evaluate eachtime the parent component runs
 re-evaluate just means the actual part of the dom that changed, not the whole dom

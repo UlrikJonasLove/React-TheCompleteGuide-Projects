@@ -40,3 +40,12 @@ Personal favorite: CSS Modules
 * #### React hooks
 * UseState for Modal visibility & useEffect for cart animation, 
 * useContext for Cart handling and app-wide state/functions & useReducer for complex state
+
+### 6. React - Behind the Basics 
+### & Optimization Techniques
+
+Connected components will re-evaluate eachtime the parent component runs
+re-evaluate just means the actual part of the dom that changed, not the whole dom
+* memo for only excecuting when value changed
+* useCallback for storing a function in memory
+* Deeper understanding of state in React
