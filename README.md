@@ -49,3 +49,44 @@ re-evaluate just means the actual part of the dom that changed, not the whole do
 * memo for only excecuting when value changed
 * useCallback for storing a function in memory
 * Deeper understanding of state in React
+
+### 7. Sending Http Requests
+
+* Working with Firebase
+* Fetching data & sending Http Requests using firebase
+* using Fetch() and Http methods - GET, POST
+
+### 8. Custom Hooks 
+
+* useHttp hook
+* always start custom hook with 'use'
+
+### 9. Forms and Inputs
+
+* working with forms and form inputs
+* Working with Refs
+* ForwardRef
+
+### 10. Food order App with Forms and Http - Practice Project
+
+* Components, props, jsx
+* Modal with React Portal
+* Simple form
+* Refs & forward Refs
+* array map function to display dummy data
+* #### React hooks
+* UseState for Modal visibility & useEffect for cart animation, 
+* useContext for Cart handling and app-wide state/functions & useReducer for complex state
+* Working with forms and form inputs
+* Http Fetch() request
+
+### 11. Redux - The Basics
+
+* Redux & react-redux
+* State Management
+* Actions & Reducers
+* redux hooks useDispatch & useSelector
+* redux store & providing the store to the react app
+* Replacing redux with reduxjs toolkit
+
+### 12. Redux - The Advanced
